@@ -5,10 +5,10 @@
 </code></pre>
 
 ### NAMA 
-Perkenal kan nama saya Femas Hendri Yuliadi,Bisa dipanggil Femas.
+Perkenal kan nama saya Femas Hendri Yuliadi,Bisa dipanggil Femas.</code></pre>
 
 ### HOBI 
 Hobi saya itu simpel...
-Hanya bisa main Gitar & Game...
+Hanya bisa main Gitar & Game...</code></pre>
 
 
