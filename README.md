@@ -19,7 +19,7 @@
 <body>
 	
    <div class="overlay">
-     <div class="loading-message">Hai kamu!<br>Tunggu dulu ya..</div>
+     <div class="loading-message">Hai Kamu!<br>Tunggu dulu ya..</div>
    </div>
 
    <audio src="https://feeldreams.github.io/maukahkamu/seandainya.mp3" id="linkmp3" class="sembunyi"></audio>
@@ -27,28 +27,28 @@
    <section class="first">
        <div class="wp"><img id="imgsatu" src="https://feeldreams.github.io/maukahkamu/wpsatu.jpg"/></div>
        <img id="first_stiker" class="stiker fade-in" src="https://feeldreams.github.io/bunga.gif"/>
-       <h1 class="title">Hei Kamuu!</h1>
-       <p class="flip">Aku boleh jujur engga nih? ☺️</p>
-       <p class="slide-up"><i>Scroll terus ke bawah ya :)</i></p>
+       <h1 class="title">Hei Yaya!</h1>
+       <p class="flip">Aku Boleh Jujur Engga Nih? ☺️</p>
+       <p class="slide-up"><i>Scroll Terus Ke Bawah Ya :)</i></p>
   </section>
   
   <section>
       <div class="wp"><img id="imgdua" src="https://feeldreams.github.io/maukahkamu/wpdua.jpg"/></div>
       <img class="stiker fade-in" src="https://feeldreams.github.io/pusn.gif"/>
       <h2 class="title"><i>Sebenernya..</i></h2>
-      <p class="slide-right">Aku suka sama <b class="lingkar">kamu</b> :(</p>
+      <p class="slide-right">Kehadiran Aku Itu Memang <br class="lingkar">Gak Penting Bagi Kamu</b> :(</p>
   </section>
   
   <section>
   	<div class="wp"><img id="imgtiga" src="https://feeldreams.github.io/maukahkamu/wptiga.jpg"/></div>
-      <p id="teksnimasi">Kalo kamu tanya kenapa aku suka sama kamu, itu karena aku punya rasa nyaman tersendiri yang ga akan aku temui di mana pun.<br><br><b><i>Kamu Tau?</i></b><br>Gaada yang bisa bikin aku nyaman selain kamu..<br><br>Dan karena mengenalimu, aku merasakan apa itu kenyamanan, apa itu kebahagiaan, dan kamu sekaligus rumah bagiku :)</p>
+      <p id="teksnimasi">Kamu Bertemu Dengan Aku Bukan Cuma Kebetulan , Mungkin Itu Adalah Jawaban Dari Semua Doa² Kamu Selama Ini.<br><br><b><i>Apa Kamu Tau?</i></b><br>Kebahagiaan Akan Datang Jika Kamu Sudah Mencintai Dirimu Sendiri...<br><br>Kenapa Begitu....?<br><br>Karena Tuhan Telah Memberikan Keadilan Kepadamu, Itu Adalah Hasil Dari Kesabaran & Keikhlasan Kamu Selama Ini... :)</p>
   </section>
   
   <section>
   	<div class="wp"><img id="imgempat" src="https://feeldreams.github.io/maukahkamu/wpempat.jpg"/></div>
       <img class="stiker fade-in" src="https://feeldreams.github.io/bunga.gif"/>
       <h2 class="title"><i>Intinya,</i></h2>
-      <p class="slide-right"><b>Kamu Mau Gak<br>Jadi Pacar Aku? 😍❤️</b></p>
+      <p class="slide-right"><b>Kamu Mau Gak<br>Jadi Teman Aku? ️</b></p>
       <div id="Tombol">
        <a id="By" onClick="fungsimau()">Mau</a>
        <a id="Bn" onClick="fungsigamau()">Gamau</a>
@@ -63,7 +63,7 @@
       <p id="kalimatakhir"></p>
       <p id="palingakhir"></p>
       <div id="TombolWA">
-       <a onClick="menuju()">Balas 💌</a>
+       <a href="intent://send/+6281952875743#Intent;scheme=smsto;package=com.whatsapp;action=android.intent.action.SENDTO;end">Balas 💌</a>
      </div>
   </section>
   
@@ -77,18 +77,18 @@
 function fungsimau(){
        fungsi=0;tes();
        teksjudulakhir = "Yeayyy! 🥳";
-       tekskalimatakhir = "Makasii udah mau nerima<br>aku jadi pacar kamu, hihi 🤭❤️";
+       tekskalimatakhir = "Kalau Gitu Tolong Doakan Aku Iyawww,<br>Tetap Lah Jadi Orang Yang Sabar & Ikhlas..️";
 }
 function fungsigamau(){
        fungsi=0;tes();
        teksjudulakhir = "Yahhh 😫";
-       tekskalimatakhir = "Yaudah kalo kamu gamau,<br>biar aku aja yang jadi<br>pacar kamu, hehe 😆❤️";
+       tekskalimatakhir = "Kalau Gitu Tolong Doakan Aku Iyawww,<br>Tetap Lah Jadi Orang Yang Sabar & Ikhlas..️";
 }
 
-teksjudulakhir2 = "I Love You";
-tekspalingakhir = "Jangan lupa balas pesan<br>ke WhatsApp aku ya! ✨";
+teksjudulakhir2 = "Terima Kasih Yah ";
+tekspalingakhir = "Jangan Lupa Balas Pesan<br>Ke WhatsApp Aku Yaya! ✨";
   
-pesanwhatsapp = "Aku mau kok jadi pacar kamu ><";
+pesanwhatsapp = "Aku Mau Kok Jadi Temen Kamu ";
 
 const body = document.querySelector("body"); initom.style="opacity:0;bottom:0;transition:none"; audio = new Audio('' + linkmp3.src); function berjatuhan() {const heart = document.createElement("div"); heart.className = "fas fa-heart"; heart.style.left = (Math.random() * 90)+"vw"; heart.style.animationDuration = (Math.random()*3)+2+"s"; body.appendChild(heart);} setInterval(function name(params) {var heartArr = document.querySelectorAll(".fa-heart"); if (heartArr.length > 100) {heartArr[0].remove()}},100);
 </script>
